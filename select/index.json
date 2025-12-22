@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "アンダーグラウンド",
+  "base_artist": "Dios",
+  "createdAt": "2025-12-22T15:28:59.645798Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "Haru Nemuri",
+      "has_synced": false,
+      "path": "select/01_アンダーグラウンド_Haru_Nemuri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プライド・オブ・アンダーグラウンド",
+      "artist": "Kinniku Shōjo Tai",
+      "has_synced": false,
+      "path": "select/02_プライド・オブ・アンダーグラウンド_Kinniku_Shōjo_Tai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プライド・オブ・アンダーグラウンド",
+      "artist": "筋肉少女帯",
+      "has_synced": false,
+      "path": "select/03_プライド・オブ・アンダーグラウンド_筋肉少女帯.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/04_アンダーグラウンド_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "Nemuri, Haru",
+      "has_synced": true,
+      "path": "select/05_アンダーグラウンド_Nemuri,_Haru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/06_アンダーグラウンド_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Underground • アンダーグラウンド",
+      "artist": "f5ve",
+      "has_synced": true,
+      "path": "select/07_Underground_•_アンダーグラウンド_f5ve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Underground [アンダーグラウンド]",
+      "artist": "Haru Nemuri",
+      "has_synced": true,
+      "path": "select/08_Underground_[アンダーグラウンド]_Haru_Nemuri.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "Haru Nemuri",
+      "has_synced": true,
+      "path": "select/09_アンダーグラウンド_Haru_Nemuri.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Underground • アンダーグラウンド",
+      "artist": "F5ve",
+      "has_synced": true,
+      "path": "select/10_Underground_•_アンダーグラウンド_F5ve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トーキョーシティ･アンダーグラウンド",
+      "artist": "パスピエ",
+      "has_synced": true,
+      "path": "select/11_トーキョーシティ・アンダーグラウンド_パスピエ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "pomodorosa",
+      "has_synced": false,
+      "path": "select/12_アンダーグラウンド_pomodorosa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Underground • アンダーグラウンド",
+      "artist": "f5ve",
+      "has_synced": true,
+      "path": "select/13_Underground_•_アンダーグラウンド_f5ve.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アンダーグラウンド",
+      "artist": "Haru Nemuri",
+      "has_synced": true,
+      "path": "select/14_アンダーグラウンド_Haru_Nemuri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アリス・イン・アンダーグラウンド",
+      "artist": "DADAROMA",
+      "has_synced": true,
+      "path": "select/15_アリス・イン・アンダーグラウンド_DADAROMA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Underground (アンダーグラウンド)",
+      "artist": "f5ve",
+      "has_synced": true,
+      "path": "select/16_Underground_(アンダーグラウンド)_f5ve.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アンダーグラウンド - Underground",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/17_アンダーグラウンド_-_Underground_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アンダーグラウンド (Underground)",
+      "artist": "harunemuri",
+      "has_synced": true,
+      "path": "select/18_アンダーグラウンド_(Underground)_harunemuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダーグラウンド",
+      "artist": "Dios",
+      "has_synced": false,
+      "path": "select/pl_01_アンダーグラウンド_Dios.txt"
+    }
+  ]
+}
